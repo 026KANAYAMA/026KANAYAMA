@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning deep learning in computer vision.
 
-## used data 
-[Penn-Fudan Database for Pedestrian Detection and Segmentation](https://www.cis.upenn.edu/%7Ejshi/ped_html/)
+## Used Data 
+- [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://www.cis.upenn.edu/%7Ejshi/ped_html/)
