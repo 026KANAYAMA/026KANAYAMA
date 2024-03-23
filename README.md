@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ## Used Data 
 - [Penn-Fudan Database for Pedestrian Detection and Segmentation](https://www.cis.upenn.edu/%7Ejshi/ped_html/)
+- [UECFOOD256 for Food Image Recognition](http://foodcam.mobi/dataset256.html)
